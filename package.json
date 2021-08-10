@@ -1,0 +1,34 @@
+{
+  "name": "step-project-forkio",
+  "version": "1.0.0",
+  "description": "Список использованных технологий:",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://gitlab.com/roma.serge17/step-project-forkio.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://gitlab.com/roma.serge17/step-project-forkio/issues"
+  },
+  "homepage": "https://gitlab.com/roma.serge17/step-project-forkio#readme",
+  "devDependencies": {
+    "browser-sync": "^2.26.14",
+    "gulp": "^4.0.2",
+    "gulp-autoprefixer": "^8.0.0",
+    "gulp-clean": "^0.4.0",
+    "gulp-concat": "^2.6.1",
+    "gulp-imagemin": "^7.1.0",
+    "gulp-inline-fonts": "^1.2.1",
+    "gulp-minify": "^3.1.0",
+    "gulp-sass": "^4.1.0"
+  },
+  "dependencies": {
+    "bootstrap": "^5.0.1"
+  },
+  "keywords": []
+}
